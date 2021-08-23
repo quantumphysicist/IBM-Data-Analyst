@@ -1,3 +1,5 @@
+Selected course material for the final capstone project for the IBM Professional Certificate: IBM Data Analyst
+
 ### Hands-on Lab 2 -- Collecting Data Using APIs.ipynb
 - Collect job data from GitHub Jobs API
 - Store the collected data in an excel spreadsheet.
